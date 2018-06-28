@@ -1,1 +1,0 @@
-digitalocean_api_token = "b77fc567b140eeea7caf726c188a29534800d3787e20334e838a8a6019d1ca43"
